@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header img{
+    width: 75px;
+}
+
+.header h1{
+    margin: 15px 0 5px 0 ;
+    background-color: red;
+}
+.content{
+    margin-top: 20px ;
+    background-color: rgb(233, 55, 55);
+}
+.content h1{
+    text-align: center;
+    color: #fff;
+}
+.content p{
+    font-size: 20px;
+}
+.content img{
+    margin-left: 50px;
+}
